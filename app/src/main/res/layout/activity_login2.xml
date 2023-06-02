@@ -179,7 +179,7 @@
                 android:layout_marginTop="@dimen/_35"
                 android:layout_marginBottom="@dimen/_40"
                 android:background="@drawable/btn1"
-                android:text="@string/don_t_have_an_account_register"
+                android:text="@string/don_t"
                 android:textAllCaps="false"
                 android:textColor="#375735"
                 android:textSize="@dimen/t15"
