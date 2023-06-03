@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/c3c3"
-    tools:context=".MainActivity">
+    tools:context="com.example.regavt.MainActivity">
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -142,6 +142,7 @@
                 android:layout_marginTop="@dimen/_30"
                 android:layout_marginEnd="@dimen/_16"
                 android:background="@drawable/btn3"
+                android:drawableEnd="@drawable/circle"
                 android:foregroundGravity="center_horizontal"
 
 

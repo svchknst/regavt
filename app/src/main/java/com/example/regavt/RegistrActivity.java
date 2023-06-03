@@ -1,4 +1,4 @@
-package com.example.reglog;
+package com.example.regavt;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import com.example.reglog.R;
 
 public class RegistrActivity extends AppCompatActivity {
 

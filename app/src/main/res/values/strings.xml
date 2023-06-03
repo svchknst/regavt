@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">reglog</string>
+    <string name="app_name">regavt</string>
     <string name="welcome">Welcome back \n to your app</string>
     <string name="download">Download all the designs Resource available on the uilover channel for free</string>
     <string name="login">Login</string>

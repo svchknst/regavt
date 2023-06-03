@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/c3c3"
-    tools:context=".MainActivity">
+    tools:context="com.example.regavt.MainActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -80,7 +80,6 @@
         android:textAllCaps="false"
         android:textColor="@color/btntxt"
         android:textSize="@dimen/t24"
-        android:drawableEnd="@drawable/circle"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

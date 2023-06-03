@@ -12,13 +12,13 @@
         android:theme="@style/Theme.Reglog"
         tools:targetApi="31">
         <activity
-            android:name=".LoginActivity2"
+            android:name="com.example.regavt.LoginActivity2"
             android:exported="false" />
         <activity
-            android:name=".RegistrActivity"
+            android:name="com.example.regavt.RegistrActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.regavt.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
